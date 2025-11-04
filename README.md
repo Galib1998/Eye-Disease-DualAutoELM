@@ -39,5 +39,16 @@ These features are then classified using an **Extreme Learning Machine (ELM)**, 
 The t-SNE visualization demonstrates the separation capabilities of the different feature sets (ConvAE, VAE, and Dual-Auto).
 
 *(Add your t-SNE plot, confusion matrix, or accuracy table here)*
+![t-SNE Plot] <img width="1820" height="489" alt="84539616-fb56-4407-9e57-a5d4bc007e00" src="https://github.com/user-attachments/assets/c5b35cc6-c60a-44b1-87f7-c9bd8c38b5ce" />
 
-![t-SNE Plot](path/to/your/plot_image.png)
+Generating reconstruction comparison for ConvAE 
+<img width="1452" height="593" alt="9402bd3f-7fe0-4c80-aeda-d9794306690b" src="https://github.com/user-attachments/assets/d3f4539a-88f7-4885-b9a8-deea13ceabb3" />
+
+Generating reconstruction comparison for VAE
+<img width="1452" height="593" alt="6fb78167-c08c-4437-b5c5-abd9e22bbf88" src="https://github.com/user-attachments/assets/e6381609-41fd-43bf-b274-246ea20af698" />
+
+Generated 5 input images with 3 attention maps each
+<img width="1589" height="1973" alt="7e2e5062-63b0-49a8-93b9-ebdd5c4bccdc" src="https://github.com/user-attachments/assets/2eea65da-ff90-4d69-bf5a-ec4eea6e3ffb" />
+
+Generating  Class-wise ROC Curves with Metrics
+<img width="1990" height="1189" alt="30d719e2-9128-4771-b037-523d6d1d939d" src="https://github.com/user-attachments/assets/535bcb0e-04fd-49a0-99b3-dc4fb56c493d" />
